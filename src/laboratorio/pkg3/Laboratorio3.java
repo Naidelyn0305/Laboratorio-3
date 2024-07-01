@@ -5,15 +5,23 @@
 package laboratorio.pkg3;
 
 import java.util.Scanner;
+import java.util.*;
 
 /**
  *
  * @author Naidelyn Gutierrez
  */
 public class Laboratorio3 {
+
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        MenuSistema menuSistema = new MenuSistema();
-        menuSistema.menu(scanner);
+        MenuSistema menuSistema = new MenuSistema(); // Crear una instancia del menú del sistema
+        Scanner scanner = new Scanner(System.in); // Inicializar el scanner para entrada por teclado
+        List<Venta> ventas = new ArrayList<>(); // Lista para almacenar las ventas (si aplica)
+
+        // Ejecutar el menú del sistema
+        MenuSistema.menu(scanner, ventas, menuSistema.espectadores);
+
+        // Cerrar el scanner al finalizar
+        scanner.close();
     }
 }
