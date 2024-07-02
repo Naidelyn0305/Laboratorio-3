@@ -1,0 +1,10 @@
+https://www.geeksforgeeks.org/how-to-print-colored-text-in-java-console/
+https://codegym.cc/es/groups/posts/es.336.clase-java-awt-color
+https://es.stackoverflow.com/questions/396013/como-llenar-con-n%C3%BAmeros-y-letras-consecutivas-una-matriz-de-89
+https://youtu.be/Wl0JV8_P1Is?si=W7FtLKkFXS_zAyiT
+https://youtu.be/nrwAtebb6Yk?si=4fIWoGHpvynu8hqd
+https://youtu.be/oLQb2ubut5U?si=pARzWUWcaX0R7k7e
+https://youtu.be/g2N8CpLj1lk?si=SkVv7qmFPZwAy5Pe
+
+Repositorio :
+https://github.com/Naidelyn0305/Laboratorio-3
